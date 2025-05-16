@@ -1,0 +1,115 @@
+2025-05-17 00:37:35,036 - INFO - Chrome driver 啟動成功
+2025-05-17 00:37:41,014 - INFO - 首頁截圖已儲存：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\cathay_homepage.png
+2025-05-17 00:37:44,452 - INFO - 找到 8 個連結
+2025-05-17 00:37:44,460 - INFO - a[1] 文字：卡片介紹
+2025-05-17 00:37:44,465 - INFO - a[2] 文字：刷卡優惠
+2025-05-17 00:37:44,470 - INFO - a[3] 文字：小樹點(信用卡)
+2025-05-17 00:37:44,475 - INFO - a[4] 文字：卡友登錄專區
+2025-05-17 00:37:44,481 - INFO - a[5] 文字：卡友理財服務
+2025-05-17 00:37:44,486 - INFO - a[6] 文字：卡友權益
+2025-05-17 00:37:44,495 - INFO - a[7] 文字：行動支付
+2025-05-17 00:37:44,499 - INFO - a[8] 文字：申請信用卡
+2025-05-17 00:37:48,961 - INFO - 嘗試點擊第 1 張信用卡
+2025-05-17 00:37:50,170 - INFO - 已儲存第 1 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card1.png
+2025-05-17 00:37:50,170 - INFO - 嘗試點擊第 2 張信用卡
+2025-05-17 00:37:51,387 - INFO - 已儲存第 2 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card2.png
+2025-05-17 00:37:51,387 - INFO - 嘗試點擊第 3 張信用卡
+2025-05-17 00:37:52,646 - INFO - 已儲存第 3 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card3.png
+2025-05-17 00:37:52,646 - INFO - 嘗試點擊第 4 張信用卡
+2025-05-17 00:37:53,848 - INFO - 已儲存第 4 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card4.png
+2025-05-17 00:37:53,848 - INFO - 嘗試點擊第 5 張信用卡
+2025-05-17 00:37:55,057 - INFO - 已儲存第 5 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card5.png
+2025-05-17 00:37:55,057 - INFO - 嘗試點擊第 6 張信用卡
+2025-05-17 00:37:56,253 - INFO - 已儲存第 6 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card6.png
+2025-05-17 00:37:56,254 - INFO - 嘗試點擊第 7 張信用卡
+2025-05-17 00:37:57,457 - INFO - 已儲存第 7 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card7.png
+2025-05-17 00:37:57,457 - INFO - 嘗試點擊第 8 張信用卡
+2025-05-17 00:37:58,663 - INFO - 已儲存第 8 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card8.png
+2025-05-17 00:37:58,663 - INFO - 嘗試點擊第 9 張信用卡
+2025-05-17 00:37:59,900 - INFO - 已儲存第 9 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card9.png
+2025-05-17 00:37:59,901 - INFO - 嘗試點擊第 10 張信用卡
+2025-05-17 00:38:01,093 - INFO - 已儲存第 10 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card10.png
+2025-05-17 00:38:01,093 - INFO - 嘗試點擊第 11 張信用卡
+2025-05-17 00:38:02,292 - INFO - 已儲存第 11 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card11.png
+2025-05-17 00:38:04,459 - INFO - 測試結束，driver 關閉。
+2025-05-17 00:40:41,461 - INFO - Chrome driver 啟動成功
+2025-05-17 00:40:47,436 - INFO - 首頁截圖已儲存：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\cathay_homepage.png
+2025-05-17 00:40:50,866 - INFO - 找到 8 個項目
+2025-05-17 00:40:50,876 - INFO - 第 1] 行文字：卡片介紹
+2025-05-17 00:40:50,900 - INFO - 第 2] 行文字：刷卡優惠
+2025-05-17 00:40:50,908 - INFO - 第 3] 行文字：小樹點(信用卡)
+2025-05-17 00:40:50,914 - INFO - 第 4] 行文字：卡友登錄專區
+2025-05-17 00:40:50,921 - INFO - 第 5] 行文字：卡友理財服務
+2025-05-17 00:40:50,926 - INFO - 第 6] 行文字：卡友權益
+2025-05-17 00:40:50,931 - INFO - 第 7] 行文字：行動支付
+2025-05-17 00:40:50,937 - INFO - 第 8] 行文字：申請信用卡
+2025-05-17 00:40:55,448 - INFO - 共 11 張信用卡
+2025-05-17 00:40:55,448 - INFO - 嘗試點擊第 1 張信用卡
+2025-05-17 00:40:56,667 - INFO - 已儲存第 1 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card1.png
+2025-05-17 00:40:56,668 - INFO - 嘗試點擊第 2 張信用卡
+2025-05-17 00:40:57,883 - INFO - 已儲存第 2 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card2.png
+2025-05-17 00:40:57,883 - INFO - 嘗試點擊第 3 張信用卡
+2025-05-17 00:40:59,116 - INFO - 已儲存第 3 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card3.png
+2025-05-17 00:40:59,116 - INFO - 嘗試點擊第 4 張信用卡
+2025-05-17 00:41:00,342 - INFO - 已儲存第 4 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card4.png
+2025-05-17 00:41:00,343 - INFO - 嘗試點擊第 5 張信用卡
+2025-05-17 00:41:01,546 - INFO - 已儲存第 5 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card5.png
+2025-05-17 00:41:01,547 - INFO - 嘗試點擊第 6 張信用卡
+2025-05-17 00:41:02,758 - INFO - 已儲存第 6 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card6.png
+2025-05-17 00:41:02,758 - INFO - 嘗試點擊第 7 張信用卡
+2025-05-17 00:41:03,965 - INFO - 已儲存第 7 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card7.png
+2025-05-17 00:41:03,965 - INFO - 嘗試點擊第 8 張信用卡
+2025-05-17 00:41:05,198 - INFO - 已儲存第 8 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card8.png
+2025-05-17 00:41:05,199 - INFO - 嘗試點擊第 9 張信用卡
+2025-05-17 00:41:06,437 - INFO - 已儲存第 9 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card9.png
+2025-05-17 00:41:06,437 - INFO - 嘗試點擊第 10 張信用卡
+2025-05-17 00:41:07,663 - INFO - 已儲存第 10 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card10.png
+2025-05-17 00:41:07,663 - INFO - 嘗試點擊第 11 張信用卡
+2025-05-17 00:41:08,856 - INFO - 已儲存第 11 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\discard_card11.png
+2025-05-17 00:41:11,023 - INFO - 測試結束，driver 關閉。
+2025-05-17 00:43:57,211 - INFO - Chrome driver 啟動成功
+2025-05-17 00:44:03,164 - INFO - 首頁截圖已儲存：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/cathay_homepage.png
+2025-05-17 00:44:06,619 - INFO - 找到 8 個項目
+2025-05-17 00:44:06,628 - INFO - 第 1 行文字：卡片介紹
+2025-05-17 00:44:06,634 - INFO - 第 2 行文字：刷卡優惠
+2025-05-17 00:44:06,640 - INFO - 第 3 行文字：小樹點(信用卡)
+2025-05-17 00:44:06,644 - INFO - 第 4 行文字：卡友登錄專區
+2025-05-17 00:44:06,650 - INFO - 第 5 行文字：卡友理財服務
+2025-05-17 00:44:06,655 - INFO - 第 6 行文字：卡友權益
+2025-05-17 00:44:06,659 - INFO - 第 7 行文字：行動支付
+2025-05-17 00:44:06,666 - INFO - 第 8 行文字：申請信用卡
+2025-05-17 00:44:28,148 - INFO - Chrome driver 啟動成功
+2025-05-17 00:44:34,106 - INFO - 首頁截圖已儲存：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/cathay_homepage.png
+2025-05-17 00:44:37,573 - INFO - 找到 8 個項目
+2025-05-17 00:44:37,585 - INFO - 第 1 行文字：卡片介紹
+2025-05-17 00:44:37,590 - INFO - 第 2 行文字：刷卡優惠
+2025-05-17 00:44:37,596 - INFO - 第 3 行文字：小樹點(信用卡)
+2025-05-17 00:44:37,602 - INFO - 第 4 行文字：卡友登錄專區
+2025-05-17 00:44:37,608 - INFO - 第 5 行文字：卡友理財服務
+2025-05-17 00:44:37,615 - INFO - 第 6 行文字：卡友權益
+2025-05-17 00:44:37,620 - INFO - 第 7 行文字：行動支付
+2025-05-17 00:44:37,625 - INFO - 第 8 行文字：申請信用卡
+2025-05-17 00:44:42,220 - INFO - 共 11 張信用卡
+2025-05-17 00:44:42,222 - INFO - 嘗試點擊第 1 張信用卡
+2025-05-17 00:44:43,426 - INFO - 已儲存第 1 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card1.png
+2025-05-17 00:44:43,426 - INFO - 嘗試點擊第 2 張信用卡
+2025-05-17 00:44:44,633 - INFO - 已儲存第 2 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card2.png
+2025-05-17 00:44:44,633 - INFO - 嘗試點擊第 3 張信用卡
+2025-05-17 00:44:45,881 - INFO - 已儲存第 3 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card3.png
+2025-05-17 00:44:45,881 - INFO - 嘗試點擊第 4 張信用卡
+2025-05-17 00:44:47,103 - INFO - 已儲存第 4 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card4.png
+2025-05-17 00:44:47,103 - INFO - 嘗試點擊第 5 張信用卡
+2025-05-17 00:44:48,329 - INFO - 已儲存第 5 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card5.png
+2025-05-17 00:44:48,329 - INFO - 嘗試點擊第 6 張信用卡
+2025-05-17 00:44:49,548 - INFO - 已儲存第 6 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card6.png
+2025-05-17 00:44:49,548 - INFO - 嘗試點擊第 7 張信用卡
+2025-05-17 00:44:50,760 - INFO - 已儲存第 7 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card7.png
+2025-05-17 00:44:50,762 - INFO - 嘗試點擊第 8 張信用卡
+2025-05-17 00:44:51,968 - INFO - 已儲存第 8 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card8.png
+2025-05-17 00:44:51,968 - INFO - 嘗試點擊第 9 張信用卡
+2025-05-17 00:44:53,197 - INFO - 已儲存第 9 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card9.png
+2025-05-17 00:44:53,197 - INFO - 嘗試點擊第 10 張信用卡
+2025-05-17 00:44:54,394 - INFO - 已儲存第 10 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card10.png
+2025-05-17 00:44:54,394 - INFO - 嘗試點擊第 11 張信用卡
+2025-05-17 00:44:55,579 - INFO - 已儲存第 11 張信用卡的截圖：C:\Users\janet\OneDrive\桌面\Testing_Engineer_Test\screenshot/discard_card11.png
+2025-05-17 00:44:57,795 - INFO - 測試結束，driver 關閉。
