@@ -7,4 +7,5 @@ circle_problem.py為程式邏輯題第三題
 python crawl_app.py 
 
 截圖儲存於screenshot
+
 log儲存於selenium_log.log
